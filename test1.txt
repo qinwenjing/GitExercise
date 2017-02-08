@@ -10,4 +10,8 @@ git exercise for the 2 time\
 \
 create a new branch is quiak\
 \
+<<<<<<< HEAD
 create a new branch is quiak2222 & simple}
+=======
+create a new branch is quiak2222 and simple}
+>>>>>>> branch3
