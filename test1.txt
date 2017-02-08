@@ -15,3 +15,4 @@ create a new branch is quiak2222 & simple}
 =======
 create a new branch is quiak2222 and simple}
 >>>>>>> branch3
+the strategy of manage branches
