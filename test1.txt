@@ -4,14 +4,4 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 first text\
-\
-first text\
-\
-change  first text for the first times\
-\
-change  first text for the 2 times\
-\
-add a new branch dev\
-\
-git status text}
+\f0\fs24 \cf0 git exercise for the 1 time}
